@@ -1,5 +1,7 @@
 # FaceRecognition_MTCNN_FaceNet
 An implementation of face recognition based on MTCNN and Facenet.
+There are more details in the 'project report' file.
+
 To run the program, please 
 1. Add two subfolders named 'imgs' and 'pics' (which have it own subfolders named 'anchors' and 'resize_anchors') under the folder 'facenet'.
 2. Adjust file paths.
