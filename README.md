@@ -1,4 +1,4 @@
-# FaceRecognition_MTCNN_FaceNet
+# Face Recognition_MTCNN_FaceNet
 An implementation of face recognition based on MTCNN and Facenet.
 
 Kindly see the doc: Face Recognition Application Based on MTCNN and FaceNet.pdf for more details. <br>
